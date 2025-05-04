@@ -6,11 +6,7 @@
 
 ### 🏠 [Homepage](https://github.com/codeakdo/cylinder-to-hexagonal-transformation)
 
-## Install
 
-```sh
-	
-```
 
 ## Author
 
